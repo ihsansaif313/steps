@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/steps-navigation-component/static/css/main.b4342cd1.css",
+    "main.js": "/steps-navigation-component/static/js/main.ba10917c.js",
+    "index.html": "/steps-navigation-component/index.html",
+    "main.b4342cd1.css.map": "/steps-navigation-component/static/css/main.b4342cd1.css.map",
+    "main.ba10917c.js.map": "/steps-navigation-component/static/js/main.ba10917c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4342cd1.css",
+    "static/js/main.ba10917c.js"
+  ]
+}
