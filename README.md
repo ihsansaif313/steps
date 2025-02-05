@@ -19,7 +19,7 @@ This code offers several educational benefits for students learning React:
 ## **Installation Instructions**
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/steps-navigation-component.git
+   git clone https://github.com/ihsansaif313/steps-navigation-component.git
    ```
 2. **Navigate to the repository directory:**
    ```bash
